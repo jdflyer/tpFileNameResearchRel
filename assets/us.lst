@@ -153,3 +153,7 @@
 803AC5A0:item_resource
 803ADD88:field_item_res
 803AED78:item_info
+
+8024E408:ct_dName_c
+8024E468:dt_dName_c
+8018ada0:dFileSelect_c_screenSet

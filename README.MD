@@ -1,7 +1,9 @@
+# Twilight Princess - FileName Research
+This project's goal is to aid in researching what I'm calling the File Name breakout glitch. The glitch occurs when you hit dpad right to go to the last character in a filename, put a character there, and hit dpad right many more times to "break out" of the file name. Using this can be used to manipulate memory in different addresses for the 256 positions the cursor can have.
 
+The tools in this mod are designed to aid in viewing the memory that's manipulated during the glitch.
 
-# Twilight Princess - REL
-This is a template repository for you to create your very own Twilight Princess mod and provide a simple start to write your code. Kind of like a "hello world" for TP.
+Any contributions to this project are welcome!
 
 ## Project Structure
 ---
@@ -29,18 +31,12 @@ REL
 
 ## Getting started
 ---
-This repository provides you with a solid start, you should use the predefined main function as an entry point to your mod...
-Please check Lines 12 through 23 in the Makefile to change some of the definitions and names.
-
 You can refer to the [Randomizer](//github.com/zsrtp/Randomizer) Project for reference.
 
 ## Wiki
 ---
 ### General
 Our [wiki](//wiki.zeldatp.net) is meant to be a central source of information for TP with a slightly technical focus we provide the most crucial information such as Stages & Rooms or item ids. If you're looking for information you should be looking there or ask in the [dev discord](//discord.gg/aZx8ZFcSPy).
-
-### Coding guidelines
-If you intend to share this code with the @zsrtp community, please follow the [guidelines](//wiki.zeldatp.net/Dev:Coding_Guidelines) as strictly as possible.
 
 ## Building
 ---
